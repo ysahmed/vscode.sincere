@@ -18,6 +18,11 @@
         "label": "Sincere Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/sincere_darker.json"
+      },
+      {
+        "label": "Sincere Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-dark-sincere.json"
       }
     ]
   }
