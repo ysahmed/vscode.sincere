@@ -1896,8 +1896,8 @@
     "activityBar.border": "#3c3836",
     "activityBarTop.background": "#1d2021",
     "activityBarTop.foreground": "#ebdbb2",
-    "activityBarBadge.background": "#458588",
-    "activityBarBadge.foreground": "#ebdbb2",
+    "activityBarBadge.background": "#d8a656",
+    "activityBarBadge.foreground": "#050505", //#ebdbb2
     // EDITOR GROUPS
     "editorGroup.border": "#3c3836",
     "editorGroup.dropBackground": "#3c383660",
