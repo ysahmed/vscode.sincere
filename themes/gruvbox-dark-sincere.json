@@ -782,7 +782,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#dbd572"
       }
     },
@@ -790,7 +790,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#dbdbdb"
       }
     },
@@ -1896,7 +1896,7 @@
     "activityBar.border": "#3c3836",
     "activityBarTop.background": "#1d2021",
     "activityBarTop.foreground": "#ebdbb2",
-    "activityBarBadge.background": "#5a9877",//#d8a656
+    "activityBarBadge.background": "#5a9877", //#d8a656
     "activityBarBadge.foreground": "#050505", //#ebdbb2
     // EDITOR GROUPS
     "editorGroup.border": "#3c3836",
@@ -1936,11 +1936,11 @@
     "editorHoverWidget.background": "#1d2021",
     "editorHoverWidget.border": "#3c3836",
     "editorOverviewRuler.border": "#1d202100",
-    "editorOverviewRuler.findMatchForeground": "#bdae93",
-    "editorOverviewRuler.rangeHighlightForeground": "#bdae93",
-    "editorOverviewRuler.selectionHighlightForeground": "#665c54",
-    "editorOverviewRuler.wordHighlightForeground": "#665c54",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#665c54",
+    "editorOverviewRuler.findMatchForeground": "#bdae93ac",
+    "editorOverviewRuler.rangeHighlightForeground": "#bdae9353",
+    "editorOverviewRuler.selectionHighlightForeground": "#665c5453",
+    "editorOverviewRuler.wordHighlightForeground": "#665c5453",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#665c5453",
     "editorOverviewRuler.modifiedForeground": "#83a598",
     "editorOverviewRuler.addedForeground": "#83a598",
     "editorOverviewRuler.deletedForeground": "#83a598",
@@ -2011,8 +2011,8 @@
     // INTEGRATED TERMINAL
     "terminal.ansiBlack": "#3c3836",
     "terminal.ansiBrightBlack": "#928374",
-    "terminal.ansiRed": "#cc241d",
-    "terminal.ansiBrightRed": "#fb4934",
+    "terminal.ansiRed": "#cd4a4a",
+    "terminal.ansiBrightRed": "#e45353",
     "terminal.ansiGreen": "#98971a",
     "terminal.ansiBrightGreen": "#b8bb26",
     "terminal.ansiYellow": "#b98662",
