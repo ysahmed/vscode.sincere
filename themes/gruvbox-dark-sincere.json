@@ -1868,8 +1868,8 @@
     "scrollbarSlider.hoverBackground": "#665c54",
     "scrollbarSlider.background": "#50494599",
     // BADGE
-    "badge.background": "#d3869b",
-    "badge.foreground": "#1d2021",
+    "badge.background": "#76997c",
+    "badge.foreground": "#050505",
     // PROGRESS BAR
     "progressBar.background": "#689d6a",
     // LISTS AND TREES
@@ -1896,7 +1896,7 @@
     "activityBar.border": "#3c3836",
     "activityBarTop.background": "#1d2021",
     "activityBarTop.foreground": "#ebdbb2",
-    "activityBarBadge.background": "#d2869b",//#d8a656
+    "activityBarBadge.background": "#5a9877",//#d8a656
     "activityBarBadge.foreground": "#050505", //#ebdbb2
     // EDITOR GROUPS
     "editorGroup.border": "#3c3836",
