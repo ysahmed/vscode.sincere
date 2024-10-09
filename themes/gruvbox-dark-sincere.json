@@ -1868,8 +1868,8 @@
     "scrollbarSlider.hoverBackground": "#665c54",
     "scrollbarSlider.background": "#50494599",
     // BADGE
-    "badge.background": "#76997c",
-    "badge.foreground": "#050505",
+    "badge.background": "#cdf3a7",
+    "badge.foreground": "#151515",
     // PROGRESS BAR
     "progressBar.background": "#689d6a",
     // LISTS AND TREES
@@ -1896,8 +1896,8 @@
     "activityBar.border": "#3c3836",
     "activityBarTop.background": "#1d2021",
     "activityBarTop.foreground": "#ebdbb2",
-    "activityBarBadge.background": "#5a9877", //#d8a656
-    "activityBarBadge.foreground": "#050505", //#ebdbb2
+    "activityBarBadge.background": "#ebdbb2", //"#f3a7ad", //#d8a656
+    "activityBarBadge.foreground": "#151515", //#ebdbb2
     // EDITOR GROUPS
     "editorGroup.border": "#3c3836",
     "editorGroup.dropBackground": "#3c383660",
@@ -2008,12 +2008,12 @@
     "statusBar.debuggingBorder": "#1d202100",
     "statusBar.noFolderBackground": "#1d2021",
     "statusBar.noFolderBorder": "#1d202100",
-    "statusBarItem.remoteBackground": "#d6ac7d",
-    "statusBarItem.remoteForeground": "#050505",
+    "statusBarItem.remoteBackground": "#458588",
+    "statusBarItem.remoteForeground": "#ebdbb1",
     // INTEGRATED TERMINAL
     "terminal.ansiBlack": "#3c3836",
     "terminal.ansiBrightBlack": "#928374",
-    "terminal.ansiRed": "#cd4a4a",
+    "terminal.ansiRed": "#d26666",
     "terminal.ansiBrightRed": "#e45353",
     "terminal.ansiGreen": "#98971a",
     "terminal.ansiBrightGreen": "#b8bb26",
