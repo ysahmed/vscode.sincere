@@ -642,7 +642,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#c7b8a8"
+        "foreground": "#c75854"
       }
     },
     {
@@ -726,7 +726,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#80c7b9"
+        "foreground": "#59b87e"
       }
     },
     {
@@ -1823,7 +1823,7 @@
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "underline italic"
       }
     },
     {
