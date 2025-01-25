@@ -1,29 +1,32 @@
 {
-  "name": "sincere-theme",
-  "displayName": "Sincere",
-  "description": "Sincere theme",
-  "version": "1.0.0",
-  "publisher": "waesh",
-  "engines": {
-    "vscode": "^1.89.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Sincere",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sincere.json"
-      },
-      {
-        "label": "Sincere Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sincere_darker.json"
-      },
-      {
-        "label": "Sincere Gruvbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox-dark-sincere.json"
-      }
-    ]
-  }
+	"name": "sincere-theme",
+	"displayName": "Sincere",
+	"description": "Sincere theme",
+	"version": "1.0.0",
+	"publisher": "waesh",
+	"engines": {
+		"vscode": "^1.89.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sincere",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sincere.json"
+			},
+			{
+				"label": "Sincere Darker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sincere_darker.json"
+			},
+			{
+				"label": "Sincere Gruvbox",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark-sincere.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 170067
+	}
 }
