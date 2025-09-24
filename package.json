@@ -23,6 +23,11 @@
 				"label": "Sincere Gruvbox",
 				"uiTheme": "vs-dark",
 				"path": "./themes/gruvbox-dark-sincere.json"
+			},
+			{
+				"label": "Sincere Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai.jsonc"
 			}
 		]
 	},
